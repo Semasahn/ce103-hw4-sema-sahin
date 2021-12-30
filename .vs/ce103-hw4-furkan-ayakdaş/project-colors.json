@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0148c107-1e2a-4924-8458-305bc26ca7bd": {
+      "ProjectGuid": "0148c107-1e2a-4924-8458-305bc26ca7bd",
+      "DisplayName": "ce103-hw4-c-dll",
+      "ColorIndex": 0
+    },
+    "8f4d26c0-0dfd-4d1a-95bd-539912f4d2d8": {
+      "ProjectGuid": "8f4d26c0-0dfd-4d1a-95bd-539912f4d2d8",
+      "DisplayName": "ce103-hw4-test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

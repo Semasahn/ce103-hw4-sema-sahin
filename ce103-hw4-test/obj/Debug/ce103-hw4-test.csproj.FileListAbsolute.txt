@@ -1,0 +1,85 @@
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\bin\Debug\ce103-hw4-test.dll
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\bin\Debug\ce103-hw4-test.pdb
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.AssemblyReference.cache
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.CopyComplete
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\obj\Debug\ce103-hw4-test.dll
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\obj\Debug\ce103-hw4-test.pdb
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\bin\Debug\ce103-hw4-cs-dll.dll
+C:\Users\Erdem\Desktop\ce103-hw4-erdem-demiroğlu\ce103-hw4-test\bin\Debug\ce103-hw4-cs-dll.pdb
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\ce103-hw4-test.dll
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\ce103-hw4-test.pdb
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\ce103-hw4-cs-dll.dll
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\ce103-hw4-cs-dll.pdb
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.AssemblyReference.cache
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.CopyComplete
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\obj\Debug\ce103-hw4-test.dll
+C:\Users\Furkan Ayakdaş\Desktop\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\obj\Debug\ce103-hw4-test.pdb
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\ce103-hw4-test.dll
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\ce103-hw4-test.pdb
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\ce103-hw4-cs-dll.dll
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\ce103-hw4-cs-dll.pdb
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.AssemblyReference.cache
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.CoreCompileInputs.cache
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.CopyComplete
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\obj\Debug\ce103-hw4-test.dll
+C:\Users\Kevser Sevim\OneDrive\Masaüstü\Son Hali\ce103-hw4-furkan-ayakdaş\ce103-hw4-test\obj\Debug\ce103-hw4-test.pdb
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\bin\Debug\ce103-hw4-test.dll
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\bin\Debug\ce103-hw4-test.pdb
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\bin\Debug\ce103-hw4-cs-dll.dll
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\bin\Debug\ce103-hw4-cs-dll.pdb
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.AssemblyReference.cache
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.CoreCompileInputs.cache
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.CopyComplete
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\obj\Debug\ce103-hw4-test.dll
+C:\Son Hali\ce103-hw4-kevser-sevim\ce103-hw4-test\obj\Debug\ce103-hw4-test.pdb
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\bin\Debug\ce103-hw4-test.dll
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\bin\Debug\ce103-hw4-test.pdb
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\bin\Debug\ce103-hw4-cs-dll.dll
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\bin\Debug\ce103-hw4-cs-dll.pdb
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\obj\Debug\ce103-hw4-test.csproj.CopyComplete
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\obj\Debug\ce103-hw4-test.dll
+C:\Users\Casper\Desktop\ce103-hw4-sema-şahin\ce103-hw4-test\obj\Debug\ce103-hw4-test.pdb
